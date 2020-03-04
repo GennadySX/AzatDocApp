@@ -1,5 +1,7 @@
 {
   "name": "DocApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
